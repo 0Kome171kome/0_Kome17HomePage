@@ -1,0 +1,25 @@
+body{
+    margin:0;
+}
+
+header{
+    height:150px;
+}
+#Div{
+    display: flex;
+}
+
+nav{
+    width:150px;
+}
+
+main{
+    flex:1;
+}
+
+aside{
+    width:200px;
+}
+footer{
+    height:100px;
+}
